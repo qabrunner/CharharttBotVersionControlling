@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\CarharttPOS\\MeijerPOS\\MasterTask_Meijer_POS","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\CarharttPOS\\MeijerPOS\\SubTask_MeijerReportDownloadPart","Automation Anywhere\\Bots\\CarharttPOS\\MeijerPOS\\SubTask_ReadConfig"]}
+{"path":"Automation Anywhere\\Bots\\CarharttPOS\\MeijerPOS\\MasterTask_Meijer_POS","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\CarharttPOS\\MeijerPOS\\SubTask_ReadConfig","Automation Anywhere\\Bots\\CarharttPOS\\MeijerPOS\\SubTask_MeijerReportDownloadPart"]}
