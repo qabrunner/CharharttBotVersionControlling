@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\CarharttPOS\\POS Regular Download\\MasterTask_AmazonRegularPOSDownload","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\CarharttPOS\\POS Regular Download\\SubTask_AmazonRegularDownload","Automation Anywhere\\Bots\\CarharttPOS\\POS Regular Download\\SubTask_FolderCreation"]}
