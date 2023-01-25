@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\CarharttPOS\\Amazon POS Bot\\Mastertask_Amazon_byorderdate","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\CarharttPOS\\Amazon POS Bot\\Subtask_ABOD_ReadConfig","Automation Anywhere\\Bots\\CarharttPOS\\Amazon POS Bot\\Subtask_ABOD_ReportDownloader"]}
