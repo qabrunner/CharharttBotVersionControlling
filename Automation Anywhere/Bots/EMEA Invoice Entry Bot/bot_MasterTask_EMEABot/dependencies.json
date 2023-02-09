@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\EMEA Invoice Entry Bot\\MasterTask_EMEABot","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\EMEA Invoice Entry Bot\\Subtask_EmailLanguageIQbot","Automation Anywhere\\Bots\\EMEA Invoice Entry Bot\\Subtask_ReadConfig","Automation Anywhere\\Bots\\EMEA Invoice Entry Bot\\Subtask_SAPInvoiceEntry"]}
