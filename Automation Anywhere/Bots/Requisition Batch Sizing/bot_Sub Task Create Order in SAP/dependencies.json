@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Requisition Batch Sizing\\Sub Task Create Order in SAP","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Requisition Batch Sizing\\Sub Task Create Order in SAP","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Requisition Batch Sizing\\Sub Task Create Timestamp"]}
