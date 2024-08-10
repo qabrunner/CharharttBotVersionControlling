@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Retail Supplying Plants\\MasterTask Retail Supplying Plants","manualDependencies":[],"scannedDependencies":[],"metadataDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Retail Supplying Plants\\MasterTask Retail Supplying Plants","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Retail Supplying Plants\\Subtask Login SAP","Automation Anywhere\\Bots\\Retail Supplying Plants\\Subtask Update Supplying Plants"],"metadataDependencies":[]}
