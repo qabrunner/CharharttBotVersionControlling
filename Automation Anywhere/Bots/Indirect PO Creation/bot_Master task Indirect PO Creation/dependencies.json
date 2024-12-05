@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Indirect PO Creation\\Master task Indirect PO Creation","manualDependencies":[],"scannedDependencies":[],"metadataDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Indirect PO Creation\\Master task Indirect PO Creation","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Indirect PO Creation\\Subtask Get Config Details","Automation Anywhere\\Bots\\Indirect PO Creation\\Subtask_POCreation","Automation Anywhere\\Bots\\Indirect PO Creation\\Subtask_SAPLogin"],"metadataDependencies":[]}
