@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\Carhartt_PR_Creation\\Master Task_PR Creation","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Carhartt_PR_Creation\\Subtask Get Config Details","Automation Anywhere\\Bots\\Carhartt_PR_Creation\\Subtask_PR Creation","Automation Anywhere\\Bots\\Carhartt_PR_Creation\\Subtask_SAPLogin"],"metadataDependencies":[]}
